@@ -32,7 +32,7 @@ IT 狗是難得少見貼地的香港創科劇，在IT 人角色上的描述不�
 
 由於開發時間短促，儘管我們已盡力校對，資料可能還會出錯或缺失。歡迎<a href="https://www.instagram.com/itdoghr/" target="_blank">指正</a>或<a href="https://github.com/ckanthony/itdoghr-app" target="_blank">直接參與開發</a>
 
-frontend 請見[連結](https://github.com/ckanthony/itdoghr-app)
+backend 請見[連結](https://github.com/ckanthony/itdoghr-api)
 www 請見[連結](https://github.com/ckanthony/itdoghr-www)
 
 員工綜合能力管理系統 - 即時投票實現方法
