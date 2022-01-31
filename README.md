@@ -1,6 +1,6 @@
 <img width="100px" src="https://upload.cc/i1/2022/01/31/s2JY6c.png" />
 
-【ViuTV】《IT狗》HR 啊姐的電腦 (backend) [itdoghr.com](https://itdoghr.com)
+【ViuTV】《IT狗》HR 啊姐的電腦 (www) [itdoghr.com](https://itdoghr.com)
 ===============
 
 <img src="https://upload.cc/i1/2022/01/31/Bzg4Dv.png" />
